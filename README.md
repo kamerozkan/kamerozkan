@@ -14,8 +14,8 @@ public-web change detection.
 | --- | --- |
 | [ATS Job Change Feed](https://apify.com/kamerozkan/ats-job-change-feed) | Normalizes public jobs across eight ATS formats and emits reliable `CREATED`, `UPDATED`, and `CLOSED` events. [Examples and schema](https://github.com/kamerozkan/ats-job-change-feed-sample). |
 | [LinkedIn Job Apply Link Verifier](https://apify.com/kamerozkan/linkedin-job-apply-link-verifier) | Verifies job rows against public employer and ATS evidence, returns safe apply routes, and blocks expired or unproven listings. [Examples and schema](https://github.com/kamerozkan/linkedin-job-apply-link-verifier-sample). |
-| [B2B Lead Cleaner](https://apify.com/kamerozkan/b2b-lead-cleaner) | Produces explained `ACCEPT`, `REVIEW`, or `REJECT` decisions before CRM import. |
-| [Google Ads Change Monitor](https://apify.com/kamerozkan/google-ads-verified-change-monitor) | Tracks public ad creatives and separates current scans from verified lifecycle changes. |
+| [B2B Lead Cleaner](https://apify.com/kamerozkan/b2b-lead-cleaner) | Produces explained `ACCEPT`, `REVIEW`, or `REJECT` decisions before CRM import. [Examples and schema](https://github.com/kamerozkan/b2b-lead-cleaner-email-validation-sample). |
+| [Google Ads Change Monitor](https://apify.com/kamerozkan/google-ads-verified-change-monitor) | Tracks public ad creatives and separates current scans from verified lifecycle changes. [Examples and schema](https://github.com/kamerozkan/google-ads-verified-change-monitor-sample). |
 
 ## Engineering approach
 
