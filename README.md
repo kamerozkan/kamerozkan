@@ -1,8 +1,8 @@
 # Kamer Ozkan
 
 I build production-oriented data products and automation APIs on Apify,
-focused on hiring signals, lead quality, market monitoring, and auditable
-public-web change detection.
+focused on hiring signals, lead quality, price intelligence, reputation,
+and auditable public-web change detection.
 
 [Apify profile](https://apify.com/kamerozkan) ·
 [LinkedIn](https://www.linkedin.com/in/kamer-ozkan/) ·
@@ -18,6 +18,8 @@ public-web change detection.
 | [HolidayCheck Review Intelligence](https://apify.com/kamerozkan/holidaycheck-review-intelligence) | Collects public hotel review data and produces aspect sentiment, monthly trends, anomaly alerts, and reputation analytics. [Examples and schema](https://github.com/kamerozkan/holidaycheck-review-intelligence-sample). |
 | [Walmart Multi-ZIP Monitor](https://apify.com/kamerozkan/walmart-multi-zip-monitor) | Collects ZIP-specific price, availability, seller, pickup, delivery, and shipping evidence for exact Walmart products. [Examples and schema](https://github.com/kamerozkan/walmart-multi-zip-monitor-sample). |
 | [ProvenExpert Reviews Scraper](https://apify.com/kamerozkan/provenexpert-reviews-scraper) | Collects public ProvenExpert and Trusted Shops reviews, ratings, and source evidence for reputation analysis. [Examples and schema](https://github.com/kamerozkan/provenexpert-reviews-scraper-sample). |
+| [German Delivery Menu Price Intelligence](https://apify.com/kamerozkan/german-delivery-menu-price-intelligence) | Collects postcode-specific Lieferando restaurant menus, dish prices, fees, availability, and repeat-run change evidence. [Examples and schema](https://github.com/kamerozkan/german-delivery-menu-price-intelligence-sample). |
+| [DACH Package Holiday Price API](https://apify.com/kamerozkan/dach-package-holiday-price-api) | Normalizes package-holiday offers across five German travel sources for hotel, airport, price-history, and comparison workflows. [Examples and schema](https://github.com/kamerozkan/dach-package-holiday-price-api-sample). |
 | [B2B Lead Cleaner](https://apify.com/kamerozkan/b2b-lead-cleaner) | Produces explained `ACCEPT`, `REVIEW`, or `REJECT` decisions before CRM import. [Examples and schema](https://github.com/kamerozkan/b2b-lead-cleaner-email-validation-sample). |
 | [Google Ads Change Monitor](https://apify.com/kamerozkan/google-ads-verified-change-monitor) | Tracks public ad creatives and separates current scans from verified lifecycle changes. [Examples and schema](https://github.com/kamerozkan/google-ads-verified-change-monitor-sample). |
 
