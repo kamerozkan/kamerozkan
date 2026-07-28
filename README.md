@@ -1,0 +1,35 @@
+# Kamer Ozkan
+
+I build production-oriented data products and automation APIs on Apify,
+focused on hiring signals, lead quality, market monitoring, and auditable
+public-web change detection.
+
+[Apify profile](https://apify.com/kamerozkan) ·
+[LinkedIn](https://www.linkedin.com/in/kamer-ozkan/) ·
+[X](https://x.com/kamerozkan)
+
+## Featured work
+
+| Project | What it does |
+| --- | --- |
+| [ATS Job Change Feed](https://apify.com/kamerozkan/ats-job-change-feed) | Normalizes public jobs across eight ATS formats and emits reliable `CREATED`, `UPDATED`, and `CLOSED` events. [Examples and schema](https://github.com/kamerozkan/ats-job-change-feed-sample). |
+| [B2B Lead Cleaner](https://apify.com/kamerozkan/b2b-lead-cleaner) | Produces explained `ACCEPT`, `REVIEW`, or `REJECT` decisions before CRM import. |
+| [Google Ads Change Monitor](https://apify.com/kamerozkan/google-ads-verified-change-monitor) | Tracks public ad creatives and separates current scans from verified lifecycle changes. |
+
+## Engineering approach
+
+- Machine-readable contracts and stable identifiers
+- Stateful change detection with explicit failure behavior
+- Provenance, confidence, and reason codes for auditable decisions
+- Public-data workflows with clear limits and responsible-use notes
+
+The ATS release benchmark validated 500 of 500 selected live boards and
+normalized 15,923 open jobs across eight adapters.
+[Read the method and limits](https://apify.com/kamerozkan/ats-job-change-feed).
+
+## Work with me
+
+I am available for custom Apify Actors and focused public-web data workflows.
+For project inquiries, contact me through
+[LinkedIn](https://www.linkedin.com/in/kamer-ozkan/) or my
+[Apify profile](https://apify.com/kamerozkan).
