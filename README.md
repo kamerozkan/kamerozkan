@@ -11,6 +11,8 @@ and evidence that can be audited downstream.
 
 | Actor | Practical use | Evidence |
 | --- | --- | --- |
+| [LinkedIn Jobs Scraper — Keyword & Location (No Login)](https://apify.com/kamerozkan/linkedin-jobs-scraper) | Scrape public LinkedIn job postings by keyword, location, and company without login or cookies. Automatic boolean conversion for broken guest filters. | [Inputs and schema](https://github.com/kamerozkan/linkedin-jobs-scraper-sample) |
+| [Facebook Ad Library Scraper & Competitor Monitor](https://apify.com/kamerozkan/facebook-ad-library-change-monitor) | Monitor competitor ad creatives, copy changes, and active status on Meta Ad Library with canonical asset hashing and lifecycle feeds. | [Inputs and schema](https://github.com/kamerozkan/facebook-ad-library-scraper-sample) |
 | [LinkedIn Company Jobs Scraper and Hiring Signals](https://apify.com/kamerozkan/linkedin-hiring-signals) | Monitor public company job pages for new, changed, reopened, and safely confirmed closed roles without a LinkedIn login or cookies. | [Inputs and schema](https://github.com/kamerozkan/linkedin-hiring-signals-sample) |
 | [ATS Jobs Scraper API](https://apify.com/kamerozkan/ats-job-change-feed) | Normalize public jobs from Greenhouse, Workday, Lever, Ashby, Workable, Personio, Recruitee, and Teamtailor into a job feed or change feed. | [Inputs and schema](https://github.com/kamerozkan/ats-job-change-feed-sample) |
 | [DACH Package Holiday Price Comparison API](https://apify.com/kamerozkan/dach-package-holiday-price-api) | Compare normalized package-holiday offers across TUI, DERTOUR, weg.de, ab-in-den-urlaub.de, and alltours. | [Inputs and schema](https://github.com/kamerozkan/dach-package-holiday-price-api-sample) |
