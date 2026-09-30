@@ -7,11 +7,23 @@ and evidence that can be audited downstream.
 
 [Browse all Actors on Apify](https://apify.com/kamerozkan) | [LinkedIn](https://www.linkedin.com/in/kamer-ozkan/) | [X](https://x.com/kamerozkan)
 
+## Start with your workflow
+
+| Your team | First task | Next step |
+| --- | --- | --- |
+| Hotel management or a hospitality agency | [Create a German hotel review report](https://apify.com/kamerozkan/holidaycheck-review-intelligence/examples/create-a-german-hotel-review-report) | [Compare nearby competitors](https://apify.com/kamerozkan/holidaycheck-review-intelligence/examples/compare-a-hotel-with-nearby-competitors), then monitor the hotels you manage |
+| Niche job board or recruitment agency | [Collect Berlin engineering jobs](https://apify.com/kamerozkan/linkedin-jobs-scraper/examples/collect-new-software-engineering-jobs-in-berlin) or [London analyst jobs](https://apify.com/kamerozkan/linkedin-jobs-scraper/examples/export-data-analyst-jobs-in-london) | [Verify application links](https://apify.com/kamerozkan/linkedin-job-apply-link-verifier) before publication |
+| Recruiting, RPO or sales intelligence | [Monitor company hiring changes](https://apify.com/kamerozkan/linkedin-hiring-signals/examples/track-verified-company-hiring-signals) | Customize a fixed employer watchlist and route useful changes into your workflow |
+| B2B sales operations | [Audit a lead list before CRM import](https://apify.com/kamerozkan/b2b-lead-cleaner/examples/prepare-complete-b2b-leads-for-crm-import) | Import accepted rows and review uncertain decisions; email checks are domain-level, not mailbox verification |
+
+The new job and hotel starters use capped 20-record inputs verified in owner tests on September 30, 2026. Duplicate the task, adjust the inputs and spending cap, then choose a useful repeat cadence. Each Actor is billed separately. These are integration recipes, not testimonials or guarantees of complete source coverage.
+
 ## Commercial focus
 
 | Actor | Practical use | Evidence |
 | --- | --- | --- |
-| [LinkedIn Jobs Scraper — Keyword & Location (No Login)](https://apify.com/kamerozkan/linkedin-jobs-scraper) | Scrape public LinkedIn job postings by keyword, location, and company without login or cookies. Automatic boolean conversion for broken guest filters. | [Inputs and schema](https://github.com/kamerozkan/linkedin-jobs-scraper-sample) |
+| [HolidayCheck Reviews and German Hotel Reports](https://apify.com/kamerozkan/holidaycheck-review-intelligence) | Collect guest ratings and aspect evidence, generate German or English management reports and build nearby competitor sets. | [Inputs, reports and schema](https://github.com/kamerozkan/holidaycheck-review-intelligence-sample) |
+| [LinkedIn Jobs Scraper - Job Board Feeds and Full Descriptions](https://apify.com/kamerozkan/linkedin-jobs-scraper) | Scrape public LinkedIn job postings by keyword, location, and company without login or cookies. Full public descriptions and new-jobs-only history for recurring feeds. | [Inputs and schema](https://github.com/kamerozkan/linkedin-jobs-scraper-sample) |
 | [Facebook Ad Library Scraper & Competitor Monitor](https://apify.com/kamerozkan/facebook-ad-library-change-monitor) | Monitor competitor ad creatives, copy changes, and active status on Meta Ad Library with canonical asset hashing and lifecycle feeds. | [Inputs and schema](https://github.com/kamerozkan/facebook-ad-library-scraper-sample) |
 | [LinkedIn Company Jobs Scraper and Hiring Signals](https://apify.com/kamerozkan/linkedin-hiring-signals) | Monitor public company job pages for new, changed, reopened, and safely confirmed closed roles without a LinkedIn login or cookies. | [Inputs and schema](https://github.com/kamerozkan/linkedin-hiring-signals-sample) |
 | [ATS Jobs Scraper API](https://apify.com/kamerozkan/ats-job-change-feed) | Normalize public jobs from Greenhouse, Workday, Lever, Ashby, Workable, Personio, Recruitee, and Teamtailor into a job feed or change feed. | [Inputs and schema](https://github.com/kamerozkan/ats-job-change-feed-sample) |
